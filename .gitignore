@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+videos/
+output/
+
+*.mp4
+*.mov
+*.pt
